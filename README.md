@@ -1,1 +1,1 @@
-# FlappyBird remade in JavaScript 
+# Web Friendly FlappyBird created in JavaScript 
